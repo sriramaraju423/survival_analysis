@@ -1,0 +1,4 @@
+Survival analysis:
+Obaservation that were dropped in middle of analysis is called censored.
+Forecasting - Timeseries
+Model based we using MAPE measure
